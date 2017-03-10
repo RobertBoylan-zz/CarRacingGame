@@ -1,0 +1,18 @@
+﻿  Model.cpp
+  Generating Code...
+  Compiling...
+  main6.cpp
+  Shader.cpp
+  Scene.cpp
+  PowerUp.cpp
+  Player.cpp
+c:\users\robert\documents\visual studio 2015\projects\cs4052 lab 1\cs4052 lab 1\player.cpp(161): warning C4305: '-=': truncation from 'double' to 'float'
+  Game.cpp
+c:\users\robert\documents\visual studio 2015\projects\cs4052 lab 1\cs4052 lab 1\game.cpp(186): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\robert\documents\visual studio 2015\projects\cs4052 lab 1\cs4052 lab 1\game.cpp(192): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Generating Code...
+  Skipping... (no relevant changes detected)
+  HUD.cpp
+  Camera.cpp
+  CS4052 Lab 1.vcxproj -> C:\Users\Robert\Documents\Visual Studio 2015\Projects\CS4052 Lab 1\Debug\CS4052 Lab 1.exe
+  CS4052 Lab 1.vcxproj -> C:\Users\Robert\Documents\Visual Studio 2015\Projects\CS4052 Lab 1\Debug\CS4052 Lab 1.pdb (Partial PDB)

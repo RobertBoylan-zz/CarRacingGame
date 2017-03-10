@@ -1,0 +1,17 @@
+﻿  Camera.cpp
+Camera.cpp(41): warning C4305: 'initializing': truncation from 'double' to 'float'
+  Light.cpp
+  main6.cpp
+  Model.cpp
+  Player.cpp
+  Scene.cpp
+  Shader.cpp
+  Skybox.cpp
+  Terrain.cpp
+  Texture.cpp
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+SOIL.lib(SOIL.obj) : error LNK2001: unresolved external symbol __imp__strstr
+SOIL.lib(stb_image_aug.obj) : error LNK2001: unresolved external symbol __imp__realloc
+SOIL.lib(stb_image_aug.obj) : error LNK2001: unresolved external symbol __imp__feof
+MSVCRT.lib(_chandler4gs_.obj) : error LNK2001: unresolved external symbol __except_handler4_common
+C:\Users\Robert\Documents\Visual Studio 2015\Projects\CS4052 Lab 1\Release\CS4052 Lab 1.exe : fatal error LNK1120: 4 unresolved externals
